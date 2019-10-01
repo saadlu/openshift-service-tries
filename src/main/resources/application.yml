@@ -1,0 +1,8 @@
+server.port: 8081
+
+logging.level.web: TRACE
+
+spring.data.mongodb:
+  host: gwap
+  port: 27017
+  database: gifts
